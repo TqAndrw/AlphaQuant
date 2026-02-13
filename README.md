@@ -11,6 +11,8 @@
 
 Moving beyond simple price tracking, AlphaQuant leverages advanced statistical models—including **Monte Carlo Simulations** and **Modern Portfolio Theory (MPT)**—to assess risk, forecast future price paths, and construct optimized portfolios. The platform bridges the gap between raw market data and actionable financial strategies using a clean, interactive interface.
 
+This tool is for educational and research purposes only. The financial forecasts, risk metrics, and portfolio optimizations are based on historical data and statistical models, which do not guarantee future results. Always conduct your own due diligence before investing.
+
 ---
 
 ## 🚀 Key Features
@@ -88,3 +90,4 @@ AlphaQuant/
 ├── app.py                   # Main Application Entry Point
 ├── requirements.txt         # Project Dependencies
 └── README.md                # Documentation
+
